@@ -1,0 +1,20 @@
+---
+html: |
+  <div>
+    <h2 style="margin-bottom: 10px">About me</h2>
+
+    <p>
+        My name is Vlad, I am 22 right now, and I am a programmer from Russia, Saratov. I am Java backend developer, but
+        I have interests in other areas, for example in computer graphics, game development, functional programming.
+
+        <br><br>
+
+        In this blog, I want to save and share my notes, thoughts, articles about programming or something else. If
+        someone will find them useful I will be really happy.
+
+        <br><br>
+
+        You can follow me on <a href="https://github.com/wlad031" style="color: black"><b>GitHub</b></a> and <a href="https://instagram.com/wlad031" style="color: black"><b>Instagram</b></a>.
+
+    </p>
+  </div>
