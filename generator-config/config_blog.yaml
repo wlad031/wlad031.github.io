@@ -3,5 +3,10 @@ tags: []
 articles_dir: ./articles
 articles_per_page: 10
 articles: 
-  - draft: true
+  - md: game-engine-introduction.md
+    link: game-engine-introduction
     title: Game Engine Development
+    date: 2018-01-23
+    tags: ["gamedev", "c++", "opengl"]
+    description: |
+      A brief introduction to the reasons for the development of another yet game engine.
