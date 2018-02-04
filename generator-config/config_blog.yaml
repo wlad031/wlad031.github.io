@@ -5,6 +5,16 @@ articles_per_page: 10
 articles: 
   - draft: true
     title: Doodle Game Engine's architecture
+  - md: racket-bf-interpreter.md
+    link: racket-bf-interpreter
+    title: Racket Brainfuck interpreter
+    date: 2018-02-04
+    tags: ["functional programming", "brainfuck"]
+    description: |
+      Brainfuck language consists of eight commands, listed in this article. 
+      It makes interpretation of the programs written in Brainfuck interesting 
+      and not very difficult task that will be useful for improving skills 
+      in any programming language.
   - md: game-engine-introduction.md
     link: game-engine-introduction
     title: Game Engine Development
