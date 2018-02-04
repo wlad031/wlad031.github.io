@@ -4,6 +4,8 @@ articles_dir: ./articles
 articles_per_page: 10
 articles: 
   - draft: true
+    title: There is an issue with code shippers displaying
+  - draft: true
     title: Doodle Game Engine's architecture
   - md: racket-bf-interpreter.md
     link: racket-bf-interpreter
