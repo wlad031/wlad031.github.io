@@ -35,7 +35,7 @@ Also we have to store the data pointer. Data pointer is just a number that repre
 
 Let's define several simple util functions:
 
-```Scheme
+```
 (define (mem-create mem-state cur-pointer) (list cur-pointer mem-state))
 (define (mem-create-empty) (mem-create '() 0))
 (define (mem-pointer mem) (car mem))
